@@ -30,3 +30,4 @@ var hotcakes = new pancakes();
 push(hotcakes, 1)
 push(hotcakes, 92929)
 push(hotcakes, 34)
+console.log(hotcakes)
